@@ -1,0 +1,45 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+  }
+
+  #cartão {
+    height: 565px;
+    width: 375px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 20px;
+  }
+
+  #qrCodeImage {
+    margin: 20px 20px;
+    height: 50%;
+    width: 335px;
+    border-radius: 20px;
+  }
+
+  #texto1 {
+    margin-top: -10px;
+    padding: 0 40px;
+    color: hsl(218, 44%, 22%);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 400;
+  }
+
+  #texto2 {
+    padding: 0 50px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: 700;
+  }
+
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
